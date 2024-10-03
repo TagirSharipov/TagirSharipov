@@ -8,6 +8,16 @@ Experienced software engineer with over 15 years in the industry. Based in Italy
 
 * ✉️  You can contact me at [semplice@giallo.it](mailto:semplice@giallo.it)
 
+
+## Portfolio
+
+### Interactive data visualizations 
+
+Created set of microfrontends: choropleth maps, heatmaps, radar charts, chord diagram,
+network charts, etc.) with __React and D3.js__. Each component was packaged as an NPM package, allowing teams to develop, test, and deploy independently. It can be used with an app shell that bundles the packages together.
+#### Demo
+![Demo](./Openeconomics.gif)
+
 ### Skills
 
 
