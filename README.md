@@ -6,10 +6,7 @@ Software Developer
 
 Experienced software engineer with over 15 years in the industry. Based in Italy and working remotely, I have successfully delivered complex projects for both major corporations and startups. My expertise includes business analysis, system architecture, and team leadership.
 
-* 🌍  I'm based in Italy
 * ✉️  You can contact me at [semplice@giallo.it](mailto:semplice@giallo.it)
-* 🧠  I'm learning microfrontends
-* ⚡  Certified Public Accountant (former) and Italian vice-champion in gym boxing for 2023.
 
 ### Skills
 
@@ -26,3 +23,7 @@ Experienced software engineer with over 15 years in the industry. Based in Italy
 ### Badges
 
 <a href="https://github.com/TagirSharipov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TagirSharipov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Additional facts
+Certified Public Accountant (former) and Italian vice-champion in gym boxing for 2023.
+
