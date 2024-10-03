@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tagir Sharipov
+Hi! My name is Tagir Sharipov
 ======================================================================================================================================
 
-Software Developer
+About me
 ------------------
 
 Experienced software engineer with over 15 years in the industry. Based in Italy and working remotely, I have successfully delivered complex projects for both major corporations and startups. My expertise includes business analysis, system architecture, and team leadership.
